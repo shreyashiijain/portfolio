@@ -12,7 +12,7 @@ const skillCategories = [
   },
   {
     title: 'Core Fundamentals',
-    skills: ['Engineering Mathematics', 'Analytical Problem Solving', 'Object Oriented Programming']
+    skills: ['Analytical Problem Solving', 'Object Oriented Programming','Java Programming']
   }
 ];
 
