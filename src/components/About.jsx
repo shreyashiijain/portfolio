@@ -32,7 +32,7 @@ const About = () => {
             <div className="w-full aspect-square max-w-sm glass relative overflow-hidden group">
               <div className="absolute inset-0 bg-white/5 transition-opacity duration-500 group-hover:opacity-0 z-10"></div>
               <div className="w-full h-full bg-surface flex flex-col items-center justify-center p-8 text-center grayscale transition-all duration-700 group-hover:grayscale-0">
-                <span className="text-7xl mb-6">👨‍💻</span>
+                <span className="text-7xl mb-6">👩🏻‍💻</span>
                 <span className="text-white font-mono tracking-widest uppercase text-sm">Shreyashi Jain</span>
                 <span className="text-muted font-mono tracking-widest uppercase text-xs mt-2">LU'28</span>
               </div>
