@@ -1,16 +1,114 @@
-# React + Vite
+# 🌐 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio website built using **React.js, Vite, and Tailwind CSS** to showcase my skills, projects, and developer journey.
 
-Currently, two official plugins are available:
+🔗 **Live Website:** [View My Portfolio](https://portfolio-eight-vert-18.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- Clean and modern user interface
+- Responsive website design
+- Interactive animations and transitions
+- Smooth scrolling navigation
+- Animated text effects
+- Dedicated sections to showcase personal information, skills, and projects
+- Contact and social profile links
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+| Technology | Purpose |
+|---|---|
+| React.js | Frontend development |
+| Vite | Development server and build tool |
+| JavaScript | Functionality and interactivity |
+| HTML5 | Website structure |
+| CSS3 | Styling |
+| Tailwind CSS | Utility-based styling |
+| Framer Motion | Animations and transitions |
+| React Router DOM | Navigation |
+| Lucide React | Icons |
+| React Scroll | Smooth scrolling |
+| React Type Animation | Animated text |
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Project Structure
+
+```text
+portfolio/
+│
+├── public/
+│
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── index.html
+├── package.json
+├── tailwind.config.js
+├── postcss.config.js
+├── vite.config.js
+└── README.md
+```
+
+*Note: The structure above represents the general organization of the project.*
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally.
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/shreyashiijain/portfolio.git
+```
+
+### 2. Navigate to the Project Directory
+
+```bash
+cd portfolio
+```
+
+### 3. Install Dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the Development Server
+
+```bash
+npm run dev
+```
+
+Open the local URL displayed in your terminal to view the website.
+
+### 5. Build for Production
+
+```bash
+npm run build
+```
+
+## 🌍 Deployment
+
+The portfolio is deployed using **Vercel**.
+
+🔗 [Visit Live Portfolio](https://portfolio-eight-vert-18.vercel.app/)
+
+## 👩‍💻 About Me
+
+Hi! I'm **Shreyashi Jain**, a Computer Science and Engineering student interested in software development, Java programming, and Data Science.
+
+I'm continuously learning new technologies, building projects, and improving my problem-solving skills.
+
+## 🔗 Connect With Me
+
+- **GitHub:** [shreyashiijain](https://github.com/shreyashiijain)
+- **LinkedIn:** [Shreyashi Jain](https://www.linkedin.com/in/shreyashi-jain-9a81a4333/)
+
+---
+
+⭐ If you like this project, consider giving it a star!
+
+*Built with ❤️ by Shreyashi Jain*
