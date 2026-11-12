@@ -1,11 +1,14 @@
+
 {
-  "name": "Shreyashi's Portfolio",
+  "name": "new-portfolio",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
+  "engines": {
+    "node": "26.x"
+  },
   "scripts": {
     "dev": "vite",
-    "build": "node ./node_modules/vite/bin/vite.js build",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -23,8 +26,5 @@
     "postcss": "^8.5.9",
     "tailwindcss": "^3.3.5",
     "vite": "^5.2.0"
-  },
-  "engines": {
-    "node": "20.x"
   }
 }
