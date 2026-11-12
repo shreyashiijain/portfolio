@@ -1,34 +1,34 @@
 # 🌐 Personal Portfolio Website
 
-A modern and responsive personal portfolio website built using **React.js, Vite, and Tailwind CSS** to showcase my skills, projects, and developer journey.
+A modern, responsive personal portfolio built using **React.js, Vite, Tailwind CSS, and Framer Motion** to showcase my technical skills, projects, achievements, and learning journey.
 
 🔗 **Live Website:** [View My Portfolio](https://portfolio-eight-vert-18.vercel.app/)
 
 ## ✨ Features
 
 - Clean and modern user interface
-- Responsive website design
-- Interactive animations and transitions
+- Fully responsive design
 - Smooth scrolling navigation
+- Interactive animations and transitions
 - Animated text effects
-- Dedicated sections to showcase personal information, skills, and projects
+- Dedicated About, Skills, Education, and Projects sections
+- Project showcase with GitHub and live demo links
 - Contact and social profile links
+- Smooth page interactions using Framer Motion
 
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
 |---|---|
-| React.js | Frontend development |
+| React.js | Component-based frontend development |
 | Vite | Development server and build tool |
 | JavaScript | Functionality and interactivity |
 | HTML5 | Website structure |
-| CSS3 | Styling |
-| Tailwind CSS | Utility-based styling |
+| Tailwind CSS | Responsive styling |
 | Framer Motion | Animations and transitions |
-| React Router DOM | Navigation |
 | Lucide React | Icons |
 | React Scroll | Smooth scrolling |
-| React Type Animation | Animated text |
+| React Type Animation | Animated text effects |
 
 ## 📂 Project Structure
 
@@ -98,9 +98,11 @@ The portfolio is deployed using **Vercel**.
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Shreyashi Jain**, a Computer Science and Engineering student interested in software development, Java programming, and Data Science.
+Hi! I'm **Shreyashi Jain**, a Computer Science and Engineering undergraduate at Lucknow University (2024–2028).
 
-I'm continuously learning new technologies, building projects, and improving my problem-solving skills.
+I'm interested in **Data Science, Machine Learning, Java Programming, and Web Development**.
+
+I enjoy exploring datasets, performing exploratory data analysis, learning machine learning algorithms, and building practical projects. I'm also actively improving my problem-solving skills through Data Structures and Algorithms.
 
 ## 🔗 Connect With Me
 
